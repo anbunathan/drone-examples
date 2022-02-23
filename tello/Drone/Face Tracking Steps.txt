@@ -1,0 +1,10 @@
+1. Import library
+
+2. Create One Directory inside project Folder "Resources"
+
+3. Create one file inside Resources "haarcascade_frontalface_default.xml"
+
+4. Goto this Link and Copy all data to that file and save the file "https://raw.githubusercontent.com/kipr/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml"
+
+5. run the code
+

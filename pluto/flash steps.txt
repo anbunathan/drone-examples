@@ -1,0 +1,13 @@
+After connecting Pluto X’s WiFi to the computer, select the Flash command from the
+toolbar
+
+Full Flash: Burn the code onto Pluto X by erasing ROM data like sensor
+calibration.
+
+Normal Flash: Burn the code onto Pluto X without erasing ROM data like sensor
+calibration.
+
+It is recommended to use Full Flash when programming for the first time.
+
+Be sure to
+calibrate the accelerometer and magnetometer sensors after every Full Flash.
